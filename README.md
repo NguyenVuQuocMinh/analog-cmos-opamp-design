@@ -23,8 +23,8 @@ BSIM4 models of the PDK:
 
 ```
 docs/
-  hand_calc_5T_OTA_and_two_stage.pdf   step-by-step sizing of the 5-T OTA and the two-stage op-amp (English)
-  hand_calc_folded_cascode_vi.pdf      nine-step sizing and bias voltages of the folded cascode (Vietnamese)
+  hand_calc_5T_OTA_and_two_stage.pdf   step-by-step sizing of the 5-T OTA and the two-stage op-amp
+  hand_calc_folded_cascode.pdf         nine-step sizing and bias voltages of the folded cascode
 images/
   ota_5t/  two_stage/  folded_cascode/
     schematic.jpg                      Custom Compiler schematic with device sizes
